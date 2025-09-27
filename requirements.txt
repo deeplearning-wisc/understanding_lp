@@ -1,0 +1,7 @@
+python-dotenv
+matplotlib
+jupyter
+tqdm
+openai
+azure-identity
+azure-mgmt-cognitiveservices
