@@ -1,6 +1,8 @@
 # Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding
+[![arXiv](https://img.shields.io/badge/arXiv-2509.23050-b31b1b.svg)](https://arxiv.org/abs/2509.23050)
 
 > by [Lin Long](https://llong-cs.github.io/llongme/), [Changdae Oh](https://changdaeoh.github.io/), [Seongheon Park](https://seongheon-96.github.io/), and [Sharon Li](https://pages.cs.wisc.edu/~sharonli/).
+
 
 ## Overview
 
